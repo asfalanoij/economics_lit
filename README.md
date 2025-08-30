@@ -10,17 +10,17 @@ Through a series of interactive dashboards, policy briefs, and data visualizatio
 
 This repository presents the Indonesia Sustainability Audit Dashboard—a scientifically rigorous framework for tracking, analyzing, and visualizing sustainability initiatives across Indonesia, tightly aligned with the Indonesia Gold 2045 Vision. Leveraging a blend of quantitative and qualitative methodologies, the dashboard offers actionable policy analysis at both national and grassroots levels, grounded in contemporary international development, environmental economics, and public-private partnership frameworks.
 
-### Scientific and Technical Foundations (20% Technical, 30% Scientific)
+### Scientific and Technical Foundations 
 - Integrates robust academic literature, including empirical studies on decentralized governance, ESG metrics, SDG alignment, and grassroots innovation.
 - Employs advanced data processing (pandas, plotly, streamlit) to deliver detailed metrics, theme distribution analyses, and ESG/SDG mapping.
 - Technical implementation features modular filtering (region, theme, ESG, GRI, IFC), interactive charts, and dynamic reporting to support reproducibility and transparency.
 
-### Strategic and Policy Value (30% Strategic)
+### Strategic and Policy Value 
 - Enables policy stakeholders to evaluate sustainability programs' effectiveness, risks, and performance using key indicators and standards (ESG, SDGs, GRI, IFC).
 - Bridges gaps among policy design, implementation, and impact measurement, fostering evidence-based decision-making for government, civil society, and private sector actors.
 - Offers nationwide and region-specific insights, facilitating inclusive development and strategic resource allocation.
 
-### Readability and Accessibility (20%)
+### Readability and Accessibility 
 - The dashboard is user-friendly, with clear visualizations, concise insights, and a readable interface.
 - Documentation provides context, installation/use instructions, and links to key academic references for further study.
 
