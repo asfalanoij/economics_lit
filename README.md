@@ -1,4 +1,8 @@
 # Indonesia Sustainability Audit Dashboard
+<img width="1460" height="722" alt="Screenshot 2025-08-30 at 09 32 47" src="https://github.com/user-attachments/assets/0dbd985a-607a-4058-b2ff-c3ee8d45e3b4" />
+<img width="1166" height="756" alt="Screenshot 2025-08-30 at 09 33 33" src="https://github.com/user-attachments/assets/8be860df-1f0c-4002-b347-ec109abc7182" />
+<img width="1465" height="792" alt="Screenshot 2025-08-30 at 09 35 16" src="https://github.com/user-attachments/assets/48af2ce6-2553-4765-bc51-f92496ab7274" />
+
 
 A comprehensive dashboard for tracking sustainability initiatives across Indonesia, aligned with the Indonesia Gold 2045 Vision.
 
